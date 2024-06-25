@@ -1,0 +1,11 @@
+.font-selector {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .font-selector select, .font-selector input[type="checkbox"], .font-selector label {
+    margin: 5px;
+  }
+  
